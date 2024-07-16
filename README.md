@@ -1,7 +1,2 @@
-### Hi there 👋
-I am Alex a Frontend Developer  
-Browse through my projects and feel free to contribute or fork any that catches your interest. Stars are appreciated.  
-  
- ◾ React, Typescript, Tailwind, SCSS  
- ◾ Learning Typescript, Next and Animation on the web  
- ◾ Looking to collaborate on Creative & Interactive websites 
+## Hey, I'm Kayode
+[![wakatime](https://wakatime.com/badge/user/cd5e881a-f44a-4a14-a885-2d4b96c07dc0.svg)][(https://wakatime.com/@bad424ff-f056-45ad-9332-750ad6b7f687)]
